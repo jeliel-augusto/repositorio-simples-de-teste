@@ -60,3 +60,5 @@ Utils:
 GameUtils
 PublisherUtils
 UserUtils
+
+Curso finalizado
